@@ -71,7 +71,7 @@ See [MIOP_definition.md](https://github.com/BeBOP-OBON/0_protocol_collection_tem
 
 This protocol is for amplifying the Small subunit ribosomal ribonucleic acid (SSU rRNA) 18S v9 gene in eukaryotes. The primers (forward: 18S V9 1389 F, reverse: 18s v9 1510 R) were first presented in [Amaral-Zettler et al. 2009](https://doi.org/10.1371/journal.pone.0006372). The target amplicon size is 87 - 186 base pairs.
 
-This primer set targets eukaryotic organisms (e.g., dinoflagellates, diatoms, and haptophytes). Important note, this primer also amplifies non-target organisms including single-celled phytoplankton (e.g., zooplankton, metazoans).
+This primer set targets single-celled eukaryotic organisms (e.g., phytoplankton, dinoflagellates, diatoms, and haptophytes). Important note, this primer also amplifies non-target organisms including zooplankton and other metazoans.
 
 The protocol presented here is intended as the first PCR of a two-step PCR next generation sequencing library preparation using Illumina Nextera Unique Dual Indices. Our written protocol does not include the second PCR step in which unique library-specific barcodes are attached to each round 1 PCR product.  [NOAA-PMEL-OME-NGS-Library-Preparation-Protocol pending]
 
@@ -222,7 +222,7 @@ This table breaks down the mixture per plate and per reaction. When running full
 
 **Positive Control**
 
-A positive control is used in every PCR run to verify success of the PCR reaction.  In place of template DNA, 2 μL of positive control diluted to 10^3 copies/µL is used. One well per plate is alotted for the positive control. The positive control used for 18S V9 is the heterotrophic nanoflagellate species *Halocafeteria seosinensis* native to Korean salterns. The reference mitogenome used to develop the positive control sequence can be found on GenBank: [Accession DQ269470.1](https://www.ncbi.nlm.nih.gov/nuccore/DQ269470.1) We note that this accession had 1 mismatch in the reverse primer and thus we modified the positive control to use the exact primer sequence to avoid mismatches. We note that [Machida metazoan 18S V8 ribosomal DNA V8](https://doi.org/10.1371/journal.pone.0046180) and Amaral-Zettler phytoplankton 18S V9 have overlapping sequences and thus we designed this positive control to capture both regions.
+A positive control is used in every PCR run to verify success of the PCR reaction.  In place of template DNA, 2 μL of positive control diluted to 10^3 copies/µL is used. One well per plate is alotted for the positive control. The positive control used for 18S V9 is the heterotrophic nanoflagellate species *Halocafeteria seosinensis* native to Korean salterns. The reference nuclear sequence used to develop the positive control sequence can be found on GenBank: [Accession DQ269470.1](https://www.ncbi.nlm.nih.gov/nuccore/DQ269470.1) We note that this accession had 1 mismatch in the reverse primer and thus we modified the positive control to use the exact primer sequence to avoid mismatches. We note that [Machida metazoan 18S V8 ribosomal DNA V8](https://doi.org/10.1371/journal.pone.0046180) and Amaral-Zettler phytoplankton 18S V9 have overlapping sequences and thus we designed this positive control to capture both regions.
 
 
 
