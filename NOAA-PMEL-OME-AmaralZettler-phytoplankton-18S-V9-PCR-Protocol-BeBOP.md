@@ -1,7 +1,3 @@
-## This is a draft document and has not been finalized or version controlled.
-
-----------
-
 # NOAA PMEL OME AmaralZettler phytoplankton 18S V9 PCR Protocol
 
 
@@ -33,7 +29,7 @@ See [MIOP_definition.md](https://github.com/BeBOP-OBON/0_protocol_collection_tem
 | time required  | 135 |
 | personnel required  | 1 |
 | language  | en |
-| issued  | 2024-02-02	 |
+| issued  | 2024-05-30	 |
 | audience  | scientists |
 | publisher  | NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Program; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies |
 | hasVersion  | 1 |
