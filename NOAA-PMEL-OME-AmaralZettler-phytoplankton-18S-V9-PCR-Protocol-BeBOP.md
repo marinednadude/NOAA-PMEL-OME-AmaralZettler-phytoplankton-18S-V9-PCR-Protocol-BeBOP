@@ -344,7 +344,7 @@ Nuclease-free water is used as a no template control (NTC) when setting up each 
 ## REFERENCES
 
 1. Amaral-Zettler, L. A., McCliment, E. A., Ducklow, H. W., & Huse, S. M. (2009). A method for studying protistan diversity using massively parallel sequencing of V9 hypervariable regions of small-subunit ribosomal RNA genes. PloS one, 4(7), e6372. https://doi.org/10.1371/journal.pone.0006372
-2. Machida, R. J., & Knowlton, N. (2012). PCR primers for metazoan nuclear 18S and 28S ribosomal DNA sequences.https://doi.org/10.1371/journal.pone.0046180
+2. Machida, R. J., & Knowlton, N. (2012). PCR primers for metazoan nuclear 18S and 28S ribosomal DNA sequences. https://doi.org/10.1371/journal.pone.0046180
    
 ## APPENDIX A: DATASHEETS
 [Protocol Sample Sheet](https://docs.google.com/spreadsheets/d/1cUywijO91LokCADOyBodINfACX8HzShYFKptwyIZUo8/edit?usp=sharing)
