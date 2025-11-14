@@ -1,6 +1,6 @@
 # NOAA-PMEL-OME-AmaralZettler-phytoplankton-18S-V9-PCR-Protocol-BeBOP
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11398106.svg)](https://doi.org/10.5281/zenodo.11398106)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17612034.svg)](https://doi.org/10.5281/zenodo.17612034)
 
 See [NOAA-PMEL-OME-AmaralZettler-phytoplankton-18S-V9-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-AmaralZettler-phytoplankton-18S-V9-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-AmaralZettler-phytoplankton-18S-V9-PCR-Protocol-BeBOP.md) for detailed protocol.  
 
